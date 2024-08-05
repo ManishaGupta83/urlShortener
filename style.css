@@ -1,0 +1,19 @@
+
+  body{
+    background-color:#ccd1d1;
+  }
+  h2{
+   text-align: center;
+   margin-top: 150px;
+  }
+    .container{
+      margin-top:40px
+    }
+    #btn{
+      background-color:green;
+      color:white;
+    }
+    #btn:hover{
+      opacity:0.8;
+      cursor:pointer;
+    }
